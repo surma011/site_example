@@ -1,0 +1,9 @@
+<?php
+	require("main_menu.inc");
+	require("side_menu.inc");
+	require("banner.inc");
+	require("php_scripts/content_script.php");
+	f_content_read("history");
+	require("php_scripts/background_script.php");
+	require("basement.inc");
+?>
