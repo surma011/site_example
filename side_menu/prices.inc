@@ -1,0 +1,9 @@
+	<div class="content">
+        <div class="catalog">
+			<div class="product"><a class="text producttext" href="https://www.dns-shop.ru/product/1f681b59a6953330/pk-dell-vostro-3670-3670-3155"><img class="product_img" src="img/PC_Dell_Vostro_3670_[3670-3155].jpg" alt="PC_ Dell_Vostro_3670_[3670-3155]">ПК Dell Vostro 3670 [3670-3155]<br>26299 ₽</a></div>
+			<div class="product"><a class="text producttext" href="https://www.dns-shop.ru/product/c59a2cf8d4f51b80/156-noutbuk-lenovo-ideapad-c340-15iwl-cernyj"><img class="product_img" src="img/laptop_Lenovo_IdeaPad_C340-15IWL_black.jpg" alt="laptop_Lenovo_IdeaPad_C340-15IWL_black">Ноутбук Lenovo IdeaPad C340-15IWL<br>30299 ₽</a></div>
+			<div class="product"><a class="text producttext" href="https://www.dns-shop.ru/product/a7cd57dad5313332/14-netbuk-lenovo-slim-1-14-seryj"><img class="product_img" src="img/netbook_Lenovo_Slim_1_14.jpg" alt="netbook_Lenovo_Slim_1_14">Нетбук Lenovo Slim 1 14<br>18999 ₽</a></div>
+			<div class="product"><a class="text producttext" href="https://www.dns-shop.ru/product/d0bbaabf93043332/8-planset-samsung-galaxy-tab-a-80-2019-32-gb--cernyj"><img class="product_img" src="img/tablet_Samsung_GALAXY_Tab_A_8.0_2019_32_GB.jpg" alt="tablet_Samsung_GALAXY_Tab_A_8.0_2019_32_GB">Samsung GALAXY Tab A 8.0 2019 32 ГБ<br>10999 ₽</a></div>
+			<div class="product"><a class="text producttext" href="https://www.dns-shop.ru/product/0ce6e69a146e1b80/621-smartfon-honor-10-lite-64-gb-cernyj"><img class="product_img" src="img/Honor_10_Lite_64_GB.jpg" alt="Honor_10_Lite_64_GB">Смартфон Honor 10 Lite 64 ГБ<br>10999 ₽</a></div>
+		</div>
+    </div>
